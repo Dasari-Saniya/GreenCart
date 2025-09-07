@@ -29,5 +29,5 @@ Greencart is a mini-project that promotes eco-friendly shopping by helping users
 You can host this project using **GitHub Pages**:  
 1. Go to your repository → Settings → Pages  
 2. Select **main branch / root folder** → Save  
-3. Your project will be available at:  
-
+3. Your project will be available at:
+https://dasari-saniya.github.io/GreenCart/
