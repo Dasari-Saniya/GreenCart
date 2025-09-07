@@ -1,6 +1,6 @@
-# Greencard - Smart Eco Shopping 🌱
+# Greencart - Smart Eco Shopping 🌱
 
-Greencard is a mini-project that promotes eco-friendly shopping by helping users identify sustainable products and earn Green Points. Built using **HTML, CSS, and JavaScript**, it works entirely in the browser without any backend.
+Greencart is a mini-project that promotes eco-friendly shopping by helping users identify sustainable products and earn Green Points. Built using **HTML, CSS, and JavaScript**, it works entirely in the browser without any backend.
 
 ## Features
 - Enter a product name to check its **eco-score** (carbon footprint and recyclability)  
